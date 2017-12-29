@@ -1,3 +1,8 @@
-####Light Weight Starter Code
+# React/Redux/Typescript Boilerplate
 
-Light weight starter code for testing things
+## TODO
+
+* production/dev builds
+* optimisation
+* hot reloading
+* code splitting
